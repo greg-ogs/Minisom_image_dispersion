@@ -8,6 +8,7 @@ Gregorio ALejandro Oropeza Gomez
 
 import numpy as np
 from minisom import MiniSom
+import imageio
 
 classesprefix=['cars', 'roses']#el prefijo que identifica cada clase
 data = []
