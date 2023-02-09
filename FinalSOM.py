@@ -6,7 +6,8 @@ Created on Fri Jan  7 16:12:04 2022
 Gregorio ALejandro Oropeza Gomez
 """
 
-
+import numpy as np
+from minisom import MiniSom
 
 classesprefix=['cars', 'roses']#el prefijo que identifica cada clase
 data = []
